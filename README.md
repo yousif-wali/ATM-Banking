@@ -22,8 +22,8 @@ To run this project, you need:
 
 2. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/ATM-Banking-System.git  
-   cd ATM-Banking-System  
+   git clone https://github.com/yousif-wali/ATM-Banking.git
+   cd ATM-Banking 
    ```  
 
 3. **Compile the Program**:  
